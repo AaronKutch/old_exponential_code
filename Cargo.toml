@@ -1,0 +1,9 @@
+[package]
+name = "old_exponential_code"
+version = "0.1.0"
+edition = "2021"
+
+# note: this code is copied out of an old project on a very old awint, and had one pass of fixes applied, and should have a lot of stuff done to improve it
+
+[dependencies]
+awint = "0.17"
